@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Me especializando em desenvolvimento Full Stack.<br>📚 Atualmente trabalho com React e Svelte.<br>🎯Buscando estágio e/ou trabalho para me aprimorar cada vez mais!</p>
+<p align="left">✨ Me especializando em Data Science.<br>📚 Atualmente trabalho com React e Svelte.<br>🎯Buscando estágio e/ou trabalho para me aprimorar cada vez mais!</p>
 
 ###
 
