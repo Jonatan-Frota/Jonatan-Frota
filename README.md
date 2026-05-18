@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Experiência em Automação operacional, Desenvolvimento e Análise de Software.<br>📚 Desenvolvedor Mobile JR.<br>🎯Possuo experiência e busco me aprimorar em diversas áreas</p>
+<p align="left">✨ Experiência em Automação operacional, Desenvolvimento e Análise de Software.<br>📚 Desenvolvedor Mobile JR.<br>🎯Busco me aprimorar cada vez mais!</p>
 
 ###
 
