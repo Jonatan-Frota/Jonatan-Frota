@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Buscando me aprimorar cada vez mais em Desenvolvimento de Software.<br>📚 Atualmente trabalho com React e Svelte.<br>🎯Atualmente estagiando e procurando uma vaga efetiva para me aprimorar cada vez mais!</p>
+<p align="left">✨ Experiência em Automação operacional, Desenvolvimento e Análise de Software.<br>📚 Desenvolvedor Mobile JR.<br>🎯Possuo experiência e busco me aprimorar em diversas áreas</p>
 
 ###
 
